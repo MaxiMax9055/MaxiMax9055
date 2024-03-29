@@ -2,7 +2,7 @@
 <hr size="5">
 <p>Мой первый язык програмирования, это HTML5</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 <details><summary>Мои навыки</summary>
    HTML5<br>
    BAT/CMD<br>
@@ -17,8 +17,14 @@
 Minecraft<br> Paper Minecraft<br> 3008 [roblox]<br> WorldBox<br> EaglerCraft<br> Clash of Clans<br> Hay Day</details>
 <details><summary>Для связи</summary>
 <hr size="5">
-<a href="maxalex0306a@gmail.com" mail to><button>GMail</button></a>
+maxalex0306a@gmail.com
 <hr size="5">
+TG 
+   @MaxiMax9055
+<hr size="5">
+Scratch<br>
+   @Maxi1114 <br>
+   @MaxiMax9055
 </details>
 
 
