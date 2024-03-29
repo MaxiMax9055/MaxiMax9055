@@ -3,7 +3,7 @@
 <p>Мой первый язык програмирования, это</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<details><summary>Все мои навыки</summary>
+<details><summary>Мои навыки</summary>
    HTML5<br>
    BAT/CMD<br>
    VBScript<br>
@@ -17,3 +17,6 @@
 Minecraft<br> Paper Minecraft<br> 3008 [roblox]<br> WorldBox<br> EaglerCraft<br> Clash of Clans<br> Hay Day</details>
 
 
+
+![MineCraft](https://img.shields.io/badge/MineCraft-green)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
