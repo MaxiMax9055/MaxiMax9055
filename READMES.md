@@ -17,7 +17,7 @@
 Minecraft<br> Paper Minecraft<br> 3008 [roblox]<br> WorldBox<br> EaglerCraft<br> Clash of Clans<br> Hay Day</details>
 <details><summary>Для связи</summary>
 <hr size="5">
-<a href="maxalex0306a@gmail.com"><button>GMail</button></a>
+<a href="maxalex0306a@gmail.com" mail to><button>GMail</button></a>
 <hr size="5">
 </details>
 
