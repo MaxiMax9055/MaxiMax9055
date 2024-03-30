@@ -28,7 +28,7 @@ Scratch<br>
 </details>
 <details><summary>Где сейчас кипит работа?</summary>
  <a name="#work">
- <a href="https://github.com/MaxiMaxComparation/paper-minecraft-spp-"><button>Paper Minecraft App</button></a>
+ <a href="https://github.com/MaxiMaxComparation/Paper-Minecraft-App-"><button>Paper Minecraft App</button></a>
 </details>
 
 ![MineCraft](https://img.shields.io/badge/MineCraft-green)
