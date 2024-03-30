@@ -2,17 +2,17 @@
 <hr size="5">
 <p>Мой первый язык програмирования, это HTML5</p>
 
-
 <details><summary>Мои навыки</summary>
-   HTML5<br>
-   BAT/CMD<br>
-   VBScript<br>
-   Scratch<br>
+ -   HTML5<br>
+ -   BAT/CMD<br>
+ -  VBScript<br>
+ -  Scratch<br>
 </details>
 <details><summary>О себе</summary>
 Возраст 12 лет<br>
 Изучаю языки программирования с 11
 </details>
+
 <details><summary>Играю в</summary>
 Minecraft<br> Paper Minecraft<br> 3008 [roblox]<br> WorldBox<br> EaglerCraft<br> Clash of Clans<br> Hay Day</details>
 <details><summary>Для связи</summary>
@@ -30,3 +30,7 @@ Scratch<br>
 
 ![MineCraft](https://img.shields.io/badge/MineCraft-green)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
+<hr size="5">
+Друзья на Github
+
+![gvit0](https://img.shields.io/badge/Gvit-0-blue)
