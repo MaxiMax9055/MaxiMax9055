@@ -26,7 +26,9 @@ Scratch<br>
    @Maxi1114 <br>
    @MaxiMax9055
 </details>
-
+<details><summary>Где сейчас кипит работа?</summary>
+Лаунчер <a href="github.com/maximax9055/paper_launcher">Paper Launcher</a>
+</details>
 
 ![MineCraft](https://img.shields.io/badge/MineCraft-green)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
