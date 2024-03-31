@@ -2,6 +2,7 @@
 <hr size="5">
 <p>Мой первый язык програмирования, это HTML5</p>
 
+![](https://komarev.com/ghpvc/?username=MaxiMax9055)
 <details><summary>Мои навыки</summary>
  -   HTML5<br>
  -   BAT/CMD<br>
