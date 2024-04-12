@@ -1,13 +1,13 @@
 <h3>Всем привет, я максим.</h3>
 <hr size="5">
 <img src="https://media0.giphy.com/media/zDuStFVpRJIZ2/giphy.gif?cid=6c09b952sqizsgted40u93447rwnulkjv1rlea1w52dm4dmz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-<p>Мой первый язык програмирования, это HTML5</p>
+<p>Мой первый язык програмирования, это HTML4.01</p>
 
-![](https://komarev.com/ghpvc/?username=MaxiMax9055)
 <details><summary>Мои навыки</summary>
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </details>
 <details><summary>О себе</summary>
 Возраст 12 лет<br>
