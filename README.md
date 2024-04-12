@@ -33,3 +33,5 @@ Scratch<br>
 Друзья на Github
 
 ![gvit0](https://img.shields.io/badge/Gvit-0-blue)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
