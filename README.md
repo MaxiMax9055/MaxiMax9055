@@ -1,5 +1,6 @@
 <h3>Всем привет, я максим.</h3>
 <hr size="5">
+<img src="https://media0.giphy.com/media/zDuStFVpRJIZ2/giphy.gif?cid=6c09b952sqizsgted40u93447rwnulkjv1rlea1w52dm4dmz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p>Мой первый язык програмирования, это HTML5</p>
 
 ![](https://komarev.com/ghpvc/?username=MaxiMax9055)
