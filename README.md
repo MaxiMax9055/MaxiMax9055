@@ -27,12 +27,7 @@ TG
 Scratch<br>
    @Maxi1114 <br>
    @MaxiMax9055
-</details>
-<details><summary>Где сейчас кипит работа?</summary>
- <a name="#work">
- <a href="https://github.com/MaxiMaxComparation/Paper-Minecraft-App-"><button>Paper Minecraft App</button></a>
-</details>
-
+<details>
 ![MineCraft](https://img.shields.io/badge/MineCraft-green)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 <hr size="5">
