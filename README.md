@@ -15,7 +15,9 @@
 </details>
 
 <details><summary>Играю в</summary>
-Minecraft<br> Paper Minecraft<br> 3008 [roblox]<br> WorldBox<br> EaglerCraft<br> Clash of Clans<br> Hay Day</details>
+Minecraft<br> Paper Minecraft<br> 3008 [roblox]<br> WorldBox<br> EaglerCraft<br> Clash of Clans<br> Hay Day<br>
+GTA. SA<br>
+Melon Sandbox</details>
 <details><summary>Для связи</summary>
 <hr size="5">
 maxalex0306a@gmail.com
