@@ -1,3 +1,6 @@
+<doctype html>
+<html>
+<body>
 <h3>Всем привет, я максим.</h3>
 <hr size="5">
 <img src="https://media0.giphy.com/media/zDuStFVpRJIZ2/giphy.gif?cid=6c09b952sqizsgted40u93447rwnulkjv1rlea1w52dm4dmz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
@@ -37,3 +40,6 @@ Scratch<br>
 ![gvit0](https://img.shields.io/badge/Gvit-0-blue)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</body>
+</html>
