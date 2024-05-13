@@ -41,5 +41,7 @@ Scratch<br>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+http://192.168.31.174:1111/
+
 </body>
 </html>
